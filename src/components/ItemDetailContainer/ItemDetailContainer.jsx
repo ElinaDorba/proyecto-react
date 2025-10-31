@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useParams } from "react-router-dom"
+import { useParams } from "react-router-dom";
 import { ItemDetail } from "../ItemDetail/ItemDetail";
 
 export const ItemDetailContainer = () => {
@@ -23,7 +23,7 @@ export const ItemDetailContainer = () => {
                     throw new Error("Producto no encontrado");
                 }
             })
-            .cath(() => {});
+            .catch(() => {});
     }, [id]);
 
     return (

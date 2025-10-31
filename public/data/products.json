@@ -4,7 +4,7 @@
     "name": "Alice",
     "price": "110.000",
     "category": "Bikini",
-    "descripcion": "Traje de baño de dos piezas, lisa con cordones y corpiño armado. Lycra 100%.",
+    "description": "Traje de baño de dos piezas, lisa con cordones y corpiño armado. Lycra 100%.",
     "imageUrl": "/images/bikini-alice.png"
 },
 {
@@ -12,7 +12,7 @@
     "name": "Ginevra",
     "price": "110.000",
     "category": "Bikini",
-    "descripcion": "Traje de baño de dos piezas, lisa con cordones. Lycra 100%.",
+    "description": "Traje de baño de dos piezas, lisa con cordones. Lycra 100%.",
     "imageUrl": "/images/bikini-ginevra.png"
 },
 {
@@ -20,7 +20,7 @@
     "name": "Mara",
     "price": "118.000",
     "category": "Bikini",
-    "descripcion": "Traje de baño de dos piezas, estampado con flores. Lycra 100%.",
+    "description": "Traje de baño de dos piezas, estampado con flores. Lycra 100%.",
     "imageUrl": "/images/bikini-mara.png"
 },
 {
@@ -28,7 +28,7 @@
     "name": "Anna",
     "price": "135.000",
     "category": "Enteriza",
-    "descripcion": "Traje de baño enterizo, lisa con estampa. Lycra 100%.",
+    "description": "Traje de baño enterizo, lisa con estampa. Lycra 100%.",
     "imageUrl": "/images/enteriza-anna.png"
 },
 {
@@ -36,7 +36,7 @@
     "name": "Janna",
     "price": "120.000",
     "category": "Enteriza",
-    "descripcion": "Traje de baño enterizo, lisa. Lycra 100%.",
+    "description": "Traje de baño enterizo, lisa. Lycra 100%.",
     "imageUrl": "/images/enteriza-janna.png"
 },
 {
@@ -44,7 +44,7 @@
     "name": "Mariel",
     "price": "125.000",
     "category": "Enteriza",
-    "descripcion": "Traje de baño enterizo, lisa con estampa. Lycra 100%.",
+    "description": "Traje de baño enterizo, lisa con estampa. Lycra 100%.",
     "imageUrl": "/images/enteriza-mariel.png"
 },
 {
@@ -52,7 +52,7 @@
     "name": "Simona",
     "price": "115.000",
     "category": "Enteriza",
-    "descripcion": "Traje de baño enterizo, rayada. Lycra 100%.",
+    "description": "Traje de baño enterizo, rayada. Lycra 100%.",
     "imageUrl": "/images/enteriza-simona.png"
 },
 {
@@ -60,7 +60,7 @@
     "name": "Sophia",
     "price": "149.000",
     "category": "Enteriza",
-    "descripcion": "Traje de baño enterizo, lisa con escote profundo con detalle en zig-zag. Lycra 100%.",
+    "description": "Traje de baño enterizo, lisa con escote profundo con detalle en zig-zag. Lycra 100%.",
     "imageUrl": "/images/enteriza-sophia.png"
 }
 ]
